@@ -82,5 +82,3 @@ A projekt teljesíti a kiírt követelményeket:
 
 **Takács Bálint**  
 2023.
-✔ Szeretnél hozzá screenshotokat, diagramot, vagy telepítési videót is bele?
-Ha kéred, beleteszem őket a README-be.
